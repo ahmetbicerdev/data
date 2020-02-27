@@ -13,6 +13,21 @@
             "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
             "thumbnail": "https://image.flaticon.com/icons/png/512/66/66053.png"
         }
+    },
+                {
+        "building_id": "EG",
+        "room_id": "EG201",
+        "location": {
+            "campus": "Halkalı",
+            "building": "Eğitim Bilimleri",
+            "floor": "2.Kat"
+        },
+        "plan": "https://i.pinimg.com/originals/64/d1/59/64d159fb97d30e56afdd1cfd3757b4d9.jpg",
+        "picture": {
+            "large": "https://i.pinimg.com/originals/64/d1/59/64d159fb97d30e56afdd1cfd3757b4d9.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
+            "thumbnail": "https://image.flaticon.com/icons/png/512/66/66053.png"
+        }
     }
   ]
 }
